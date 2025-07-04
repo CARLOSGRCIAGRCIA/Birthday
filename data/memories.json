@@ -1,0 +1,13 @@
+[
+    {
+        "date": "15 Enero 2023",
+        "title": "Nuestro primer viaje juntos",
+        "image": "assets/images/viaje1.jpg",
+        "description": "El día que fuimos a la montaña y vivimos esa aventura increíble..."
+    },
+    {
+        "date": "14 Febrero 2023",
+        "title": "Nuestro primer San Valentín",
+        "description": "Te preparé esa cena especial que tanto te gustó..."
+    }
+]

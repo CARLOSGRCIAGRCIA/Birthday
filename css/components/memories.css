@@ -1,0 +1,57 @@
+.memories-timeline {
+    margin-top: 20px;
+    position: relative;
+    padding-left: 30px;
+}
+
+.memories-timeline::before {
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--primary);
+}
+
+.memory-item {
+    position: relative;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+
+.memory-item::before {
+    content: '';
+    position: absolute;
+    left: -8px;
+    top: 5px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--secondary);
+    border: 2px solid white;
+}
+
+.memory-date {
+    color: var(--primary);
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.memory-title {
+    color: var(--dark);
+    margin-bottom: 10px;
+}
+
+.memory-image {
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px 0;
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.memory-description {
+    color: #555;
+    line-height: 1.6;
+}

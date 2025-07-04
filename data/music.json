@@ -1,0 +1,12 @@
+[
+    {
+        "id": "song1",
+        "title": "Nuestra canción especial",
+        "src": "assets/audio/cancion1.mp3"
+    },
+    {
+        "id": "song2",
+        "title": "Melodía favorita",
+        "src": "assets/audio/melodia.mp3"
+    }
+]

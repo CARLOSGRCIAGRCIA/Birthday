@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Nuestro primer viaje",
+        "url": "assets/images/viaje1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Celebración especial",
+        "url": "assets/images/celebracion.jpg"
+    }
+]

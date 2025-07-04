@@ -1,0 +1,66 @@
+.hearts {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.heart {
+    position: absolute;
+    color: rgba(255, 0, 0, 0.5);
+    animation: float 5s infinite ease-in-out;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0) rotate(0deg); opacity: 1; }
+    50% { transform: translateY(-20px) rotate(20deg); opacity: 0.7; }
+}
+
+.birthday-cake {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+}
+
+.cake-layer {
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    background: #f8bbd0;
+    border-radius: 50% 50% 0 0;
+}
+
+.layer1 { bottom: 0; left: 10px; height: 40px; background: #f48fb1; }
+.layer2 { bottom: 35px; left: 20px; width: 60px; height: 30px; background: #f06292; }
+.layer3 { bottom: 60px; left: 30px; width: 40px; height: 20px; background: #ec407a; }
+
+.candle {
+    position: absolute;
+    width: 4px;
+    height: 25px;
+    background: #4fc3f7;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.flame {
+    position: absolute;
+    width: 10px;
+    height: 15px;
+    background: #ffca28;
+    border-radius: 50% 50% 20% 20%;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    animation: flicker 0.8s infinite alternate;
+}
+
+@keyframes flicker {
+    0% { height: 15px; }
+    100% { height: 20px; }
+}

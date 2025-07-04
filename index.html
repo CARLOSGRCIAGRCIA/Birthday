@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regalo de Cumpleaños Especial</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/components/note.css">
+    <link rel="stylesheet" href="css/components/gallery.css">
+    <link rel="stylesheet" href="css/components/music.css">
+    <link rel="stylesheet" href="css/components/phrases.css">
+    <link rel="stylesheet" href="css/components/memories.css">
+</head>
+<body>
+    <div class="hearts" id="hearts"></div>
+    <div class="birthday-cake">
+        <div class="cake-layer layer1"></div>
+        <div class="cake-layer layer2"></div>
+        <div class="cake-layer layer3"></div>
+        <div class="candle"></div>
+        <div class="flame"></div>
+    </div>
+    
+    <div class="container">
+        <header>
+            <h1>¡Feliz Cumpleaños!</h1>
+            <p>Un regalo especial lleno de amor y recuerdos</p>
+        </header>
+        
+        <div class="main-content">
+            <!-- Sección de Nota -->
+            <div class="section active" id="note-section">
+                <div id="note-container"></div>
+            </div>
+            
+            <!-- Sección de Galería -->
+            <div class="section" id="gallery-section">
+                <div id="gallery-container"></div>
+            </div>
+            
+            <!-- Sección de Música -->
+            <div class="section" id="music-section">
+                <div id="music-container"></div>
+            </div>
+            
+            <!-- Sección de Frases -->
+            <div class="section" id="phrases-section">
+                <div id="phrases-container"></div>
+            </div>
+            
+            <!-- Sección de Recuerdos -->
+            <div class="section" id="memories-section">
+                <div id="memories-container"></div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Menú de navegación -->
+    <div class="menu">
+        <div class="menu-item active" data-target="note-section">
+            <i class="fas fa-sticky-note"></i>
+            <span>Nota</span>
+        </div>
+        <div class="menu-item" data-target="gallery-section">
+            <i class="fas fa-images"></i>
+            <span>Galería</span>
+        </div>
+        <div class="menu-item" data-target="music-section">
+            <i class="fas fa-music"></i>
+            <span>Música</span>
+        </div>
+        <div class="menu-item" data-target="phrases-section">
+            <i class="fas fa-heart"></i>
+            <span>Frases</span>
+        </div>
+        <div class="menu-item" data-target="memories-section">
+            <i class="fas fa-book"></i>
+            <span>Recuerdos</span>
+        </div>
+    </div>
+    
+    <!-- Audio Player -->
+    <audio id="audioPlayer">
+        <source src="" type="audio/mpeg">
+    </audio>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
