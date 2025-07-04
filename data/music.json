@@ -2,11 +2,16 @@
     {
         "id": "song1",
         "title": "Nuestra canción especial",
-        "src": "assets/audio/cancion1.mp3"
+        "src": "assets/audio/LlegasteAMiVida.mpeg "
     },
     {
         "id": "song2",
         "title": "Melodía favorita",
-        "src": "assets/audio/melodia.mp3"
+        "src": "assets/audio/RobarteUnBeso.mpeg"
+    },
+    {
+        "id": "song2",
+        "title": "Melodía favorita",
+        "src": "assets/audio/NoHayNadieMás.mp3"
     }
 ]
