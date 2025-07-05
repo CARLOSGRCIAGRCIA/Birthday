@@ -13,5 +13,16 @@
         "id": "song2",
         "title": "Melodía favorita",
         "src": "assets/audio/NoHayNadieMás.mp3"
+    },
+    {
+        "id": "song2",
+        "title": "Melodía favorita",
+        "src": "assets/audio/CómoMirarte.mp3"
+    },
+    {
+        "id": "song2",
+        "title": "Melodía favorita",
+        "src": "assets/audio/OneYear.mp3"
     }
+
 ]

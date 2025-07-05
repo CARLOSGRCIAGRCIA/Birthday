@@ -1,13 +1,18 @@
 [
     {
-        "date": "15 Enero 2023",
-        "title": "Nuestro primer viaje juntos",
-        "image": "assets/images/viaje1.jpg",
-        "description": "El día que fuimos a la montaña y vivimos esa aventura increíble..."
+        "date": "Diciembre 2021",
+        "title": "El comienzo de una vida",
+        "description": "Sabes que estaba teniendo un fin de año tan simple, no había emoción como tal en ese momento, y mi cumpleaños se acercaba también, pero llegaste tú, y como ahora lograste hacerme feliz, me hiciste confesar finalmente mis sentimientos por ti."
     },
     {
-        "date": "14 Febrero 2023",
+        "date": "15 Enero 2022",
+        "title": "Inicio de nuestra historia",
+        "image": "assets/images/Start.png",
+        "description": "El día que todo empezó, si supe que te amaba antes de ese día, entonces pude confirmar que quería empezar una historia contigo, y hasta el día de hoy me niego a que tenga un final."
+    },
+    {
+        "date": "14 Febrero 2022",
         "title": "Nuestro primer San Valentín",
-        "description": "Te preparé esa cena especial que tanto te gustó..."
+        "description": "Era algo nuevo, nunca había tenido un interés genuino en esa fecha, pero tú, tú hiciste que ese día por fin tuviera un significado."
     }
 ]

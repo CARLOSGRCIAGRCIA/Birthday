@@ -1,12 +1,104 @@
 [
     {
         "id": 1,
-        "title": "Nuestro primer viaje",
-        "url": "assets/images/viaje1.jpg"
+        "title": "Video divertido",
+        "url": "assets/video/ssstik.io_@miyamura_kun25_1751685825643.mp4",
+        "type": "video"
     },
     {
         "id": 2,
-        "title": "Celebración especial",
-        "url": "assets/images/celebracion.jpg"
+        "title": "Video divertido",
+        "url": "assets/video/SS1.mp4",
+        "type": "video"
+    },
+    {
+        "id": 3,
+        "title": "Momentos felices",
+        "url": "assets/images/I1.jpeg",
+        "type": "image"
+    },
+    {
+        "id": 4,
+        "title": "Celebración",
+        "url": "assets/images/I2.jpeg",
+        "type": "image"
+    },
+    {
+        "id": 5,
+        "title": "Video divertido",
+        "url": "assets/video/ssstik.io_@enrolando_69_1751703353183.mp4",
+        "type": "video"
+    },
+    { 
+        "id": 6,
+        "title": "Video divertido",
+        "url": "assets/video/ssstik.io_@music_lyrics746_1751703399350.mp4",
+        "type": "video"
+    },
+    {
+        "id": 7,
+        "title": "Momentos felices",
+        "url": "assets/images/I3.jpeg",
+        "type": "image"
+    },
+    {
+        "id": 8,
+        "title": "Celebración",
+        "url": "assets/images/I4.jpeg",
+        "type": "image"
+    },
+        {
+        "id": 9,
+        "title": "Video divertido",
+        "url": "assets/video/ssstik.io_@priv.paradedicar_1751703309454.mp4",
+        "type": "video"
+    },
+    { 
+        "id": 10,
+        "title": "Video divertido",
+        "url": "assets/video/ssstik.io_@videos.romant_1751703450760.mp4",
+        "type": "video"
+    },
+    {
+        "id": 11,
+        "title": "Momentos felices",
+        "url": "assets/images/I5.jpeg",
+        "type": "image"
+    },
+    {
+        "id": 12,
+        "title": "Celebración",
+        "url": "assets/images/I6.jpeg",
+        "type": "image"
+    },
+    {
+        "id": 13,
+        "title": "Momentos felices",
+        "url": "assets/images/I7.jpeg",
+        "type": "image"
+    },
+    {
+        "id": 14,
+        "title": "Celebración",
+        "url": "assets/images/I8.jpeg",
+        "type": "image"
+    },
+    {
+        "id": 15,
+        "title": "Momentos felices",
+        "url": "assets/images/I9.jpeg",
+        "type": "image"
+    },
+    {
+        "id": 16,
+        "title": "Celebración",
+        "url": "assets/images/I10.jpeg",
+        "type": "image"
+    },
+    {
+        "id": 17,
+        "title": "Celebración",
+        "url": "assets/video/ssstik.io_@epicosnovios_1751703686084.mp4",
+        "type": "video"
     }
-]
+ ]
