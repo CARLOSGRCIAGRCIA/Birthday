@@ -1,8 +1,18 @@
 [
     {
+        "date": "Julio 2002",
+        "title": "El inicio de tu historia",
+         "description": "En este mes llegaste al mundo, sin saber que años después ibas a cambiar por completo el mío. Desde entonces el universo ya estaba conspirando para que nuestros caminos se cruzaran."
+    },
+    {
         "date": "Diciembre 2021",
         "title": "El comienzo de una vida",
         "description": "Sabes que estaba teniendo un fin de año tan simple, no había emoción como tal en ese momento, y mi cumpleaños se acercaba también, pero llegaste tú, y como ahora lograste hacerme feliz, me hiciste confesar finalmente mis sentimientos por ti."
+    },
+    {
+        "date": "Diciembre 2021",
+        "title": "Te quedaste dormida en llamada",
+        "description": "Seguir escuchando tu respiración al otro lado del teléfono fue el sonido más pacífico del mundo. Dormías, pero yo sonreía."
     },
     {
         "date": "15 Enero 2022",
@@ -14,5 +24,27 @@
         "date": "14 Febrero 2022",
         "title": "Nuestro primer San Valentín",
         "description": "Era algo nuevo, nunca había tenido un interés genuino en esa fecha, pero tú, tú hiciste que ese día por fin tuviera un significado."
+    },
+    {
+        "date": "Mayo 2022",
+        "title": "Te vi sonreír en pantalla",
+        "description": "Siendo completamente honesto, no recuerdo la fecha, pero si recuerdo la llamada, en ese momento olvidé la distancia. Sólo éramos tú, yo y esa bella sonrisa que a dia de hoy aun sigue cautivando mi ser, que sin importar el paso de los dias jamas podra desaparecer de mi mente."
+    },
+    {
+        "date":"14 Febrero 2022",
+        "title":"",
+        "description":""
+    },
+    {
+        "date": "15 Enero 2023",
+        "title": "Un año de amor, sin importar los kilómetros",
+        "description": "365 días de mensajes, llamadas, sonrisas y amor a distancia. Y aún así, senti que apenas estabamos empezando."
+    },
+
+    {
+        "date": "Abril 2023",
+        "title": "Nuestra canción",
+        "description": "No sé cuántas veces la escuché pensando en ti. Cada parte de esa cancion me recuerda a ti, como podria escuchar esa cancion sin imaginarte"
     }
+
 ]
