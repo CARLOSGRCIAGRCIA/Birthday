@@ -11,7 +11,7 @@ class GalleryComponent {
         const galleryData = db.getGalleryData();
         
         this.container.innerHTML = `
-            <h2 class="section-title">Nuestros Recuerdos</h2>
+            <h2 class="section-title">Algunos recuerdos</h2>
             <div class="gallery-grid">
                 ${galleryData.map(item => this.renderMediaItem(item)).join('')}
             </div>

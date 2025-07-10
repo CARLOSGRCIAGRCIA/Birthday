@@ -11,7 +11,7 @@ class PhrasesComponent {
     render() {
         const phrases = db.getPhrasesData();
         this.container.innerHTML = `
-            <h2 class="section-title">Frases de Amor</h2>
+            <h2 class="section-title">Frases que me recuerdan a ti</h2>
             <div class="phrases-container">
                 <div class="phrase-card">
                     <p id="phrase-text">${phrases[this.currentPhrase]}</p>

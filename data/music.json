@@ -1,27 +1,27 @@
 [
     {
         "id": "song1",
-        "title": "Nuestra canción especial",
+        "title": "Llegaste a mi vida",
         "src": "assets/audio/LlegasteAMiVida.mpeg "
     },
     {
         "id": "song2",
-        "title": "Melodía favorita",
+        "title": "Robarte un beso",
         "src": "assets/audio/RobarteUnBeso.mpeg"
     },
     {
         "id": "song2",
-        "title": "Melodía favorita",
+        "title": "Nuestra canción especial",
         "src": "assets/audio/NoHayNadieMás.mp3"
     },
     {
         "id": "song2",
-        "title": "Melodía favorita",
+        "title": "Como Mirarte",
         "src": "assets/audio/CómoMirarte.mp3"
     },
     {
         "id": "song2",
-        "title": "Melodía favorita",
+        "title": "A Year",
         "src": "assets/audio/OneYear.mp3"
     }
 
